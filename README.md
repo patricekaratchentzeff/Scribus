@@ -49,7 +49,9 @@
    - know normaly what they do!
    -  !!! English quotes “ ” should not normaly use
  
- The script is full documented inside and is surely a good basement for general typo script for other languages. The part of French spec is isolated and it is easy to propose other rules for other languages. 
+ The script is full documented inside and is surely a good basement for general typo script for other languages. The part of French spec is isolated and it is easy to propose other rules for other languages.
+ 
+ I add a test Scribus document for validating/testing this script. The debug mode in console shows the different parts/steps of the script. You can use the misc scripts for playing with a minimal set of rules, because the main script is a bit long. The document is test-typo.sla.
 
 # Pour les utilisateurs francophones
 
