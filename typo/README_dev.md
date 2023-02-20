@@ -31,11 +31,39 @@ This script is based on the general Scribus structure template script you can fi
 
 https://wiki.scribus.net/canvas/Scripter/Snippet/Main
 
-The script deals only on **frametext** and let the user to choose between working on a single frametext or on all over the document. This is enough difficult to propose an average, because Scribus API dialog structure is poor for dealing chooses. 
+The script deals only on **frametext** and let the user to choose between working on a single frametext or on all over the document. This is enough difficult to propose an average, because Scribus API dialog structure is poor for dealing chooses.
+
+### Welcome banner
+
+Nothing special. It is a single message for indicating the purpose of the script.
+
+The `welcome_banner()` function is simple message box given per the Scribus API
+
+```python
+def welcome_banner():
+    #
+    message_init = """<center>Ce script a pour but de forcer la tyographie du texte
+    en respectant les normes recommandées par l'<b>Imprimerie nationale de France</b>.
+    Il ne gère donc que les <font color=red>espacements</font>.
+    <br><br> Si vous voulez transformer vos caractères en respectant les usages de France,
+    comme les guillemets « ou », utilisez un autre script.
+    <br><br>Pour poursuivre, cliquer sur OK</center>"""
+    info("Message d'information")
+    result = scribus.messageBox("Information",
+                                message_init,
+                                icon=ICON_INFORMATION,
+                                button1=BUTTON_OK,
+                                button2=BUTTON_ABORT|BUTTON_DEFAULT)
+    if ( result == BUTTON_ABORT):
+        sys.exit(1)
+```
+
+
+### Setup
 
 If the user choose a single frametext, he must have selected it before using the script.
 
-The `setup_script()` code checks it.
+The `setup_script()` function checks it.
 
 ```python
     while True:
@@ -61,4 +89,64 @@ The `setup_script()` code checks it.
                                button1=BUTTON_OK)
 ```
 
-Because the dialog boxes are poored, you cannot have check-button or all this sort of easy-to-configure buttons.
+Because the dialog boxes are poored, you cannot have check-button or all this sort of easy-to-configure buttons. The user must enter an figure by hand for its choice (here, "1" for a single frametext and "2) for all the document)
+
+Now you have to check:
+
+* if the user has selected a frame before running the script
+
+```python
+    if workflow == "frametext":
+         # no selection
+        if scribus.selectionCount() == 0:
+            message_warn = """Aucun objet n'est sélectionné.\n
+            Sélectionnez un cadre de texte et recommencez. """
+            scribus.messageBox('Scribus - Erreur',
+                               message_warn,
+                               scribus.ICON_WARNING, scribus.BUTTON_OK)
+            sys.exit(2)
+
+```
+
+* if the user has selected only *one* frame
+
+```python
+        elif scribus.selectionCount() > 1:
+            message_warn = """<center>Ce script ne peut pas fonctionner 
+            lorsque plusieurs objets sont sélectionnés.<br>
+            Veuillez ne sélectionner qu'un seul cadre de texte, <br>
+            puis recommencez.</center> """
+            scribus.messageBox('Scribus - Erreur',
+                               message_warn,
+                               scribus.ICON_WARNING, scribus.BUTTON_OK)
+            sys.exit(2)
+```
+
+* if the user has selected only a frametext
+
+```python
+        else:
+            list_item = scribus.getPageItems() # [('Text1', 4, 0), ('Image1', 2, 1), ...]
+            for item in list_item:
+                if (item[1] != 4):
+                    message_warn = """ L'objet sélectionné n'est pas un cadre de texte.\n
+                    Veuillez sélectionner un cadre de texte, puis recommencez. """
+                    scribus.messageBox('Scribus - Erreur',
+                                       message_warn,
+                                       scribus.ICON_WARNING, scribus.BUTTON_OK)
+                    sys.exit(2)
+```
+
+Notice that a bad choice halts the script.
+
+###
+
+
+```python
+```
+```python
+```
+```python
+```
+
+
