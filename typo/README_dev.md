@@ -14,7 +14,7 @@ The general principle of this script is:
 
 ```mermaid
 flowchart TD;
-	A[One frametext only]-->(User choice)C[Process frametext];
-	B[All the document]-->(User choice)C[Process frametext];
+	A[One frametext only]-->|User choice|C[Process frametext];
+	B[All the document]-->|User choice|C[Process frametext];
 	C-->D[Extract text];
 ```
