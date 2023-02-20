@@ -12,7 +12,7 @@ You must be fluent with the Scribus API and Python.
 
 The general principle of this script is:
 
-``̀`
+```mermaid
 Graph TD;
 	"One frametext only" --> "Process frametext";
 	"All the document" --> "Process frametext";
