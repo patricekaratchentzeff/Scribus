@@ -20,6 +20,7 @@ flowchart TD;
 	D-->E[For all the caracters of the text];
 	E-->F[Create previous character, current caracter and nextcharacter];
 	F-->G{test and apply typo rule};
-	G-->|loop|E;
+	G-->E;
 	G-->D;
+	G-->H[Final stats]
 ```
