@@ -17,9 +17,9 @@ flowchart TD;
 	A{One frametext only}-->|User choice|C[For all the frametexts];
 	B{All the document}-->|User choice|C[For all the frametexts];
 	C-->D[Extract text];
-	D-->E[For all the caracters of the text]
-	E-->F[Create previous character, (current) caracter and nextcharacter)]
-	F-->G{test and apply typo rule}
-	G-->|loop|E
-	G-->D
+	D-->E[For all the caracters of the text];
+	E-->F[Create previous character, (current) caracter and nextcharacter)];
+	F-->G{test and apply typo rule};
+	G-->|loop|E;
+	G-->D;
 ```
