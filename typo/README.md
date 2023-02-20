@@ -30,3 +30,18 @@ Ce script peut s'appliquer sur un cadre de texte unique ou bien sur **tous** les
 
 ATTENTION, pour les textes longs comme les romans, ce script peut tourner longtemps. Compter environ 6 à 7 min par 100 000 signes sur un microprocesseur de 2015. Il y a une barre de progression dans Scribus en bas à droite qui indique le pourcentage de travail effectué.
 
+
+# Règle typographique en usage à l'Imprimerie nationale
+
+| Signes | Règles |
+| -----|-------------------|
+ |espaces consécutives |  Une seule espace               |
+ |.,    |  Absence d'espace/espace typographique             | 
+ |;!?   |  Espace typograhique fine insécable/espace typographique          | 
+ |:     |  Espace typograhique insécable/espace typographique           | 
+ |—     |  Espace typographique/espace typographique             | 
+ |«     |  Espace typographique/Espace typograhique insécable          | 
+ |»     |  Espace typograhique insécable/espace typographique           | 
+ |([    |  espace typographique/absence d'espace              |
+ |)]    |  Absence d'espace/espace typographique              |
+
