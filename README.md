@@ -49,6 +49,7 @@
    - know normaly what they do!
    -  !!! English quotes “ ” should not normaly use
  
+ The script is full documented inside and is surely a good basement for general typo script for other languages. The part of French spec is isolated and it is easy to propose other rules for other languages. 
 
 # Pour les utilisateurs francophones
 
