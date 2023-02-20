@@ -139,7 +139,23 @@ Now you have to check:
 
 Notice that a bad choice halts the script.
 
-###
+Don't forget that checks for Scribus internal use and opened Scribus document are done at the top of the code:
+
+```python
+try:
+    import scribus
+except ImportError:
+    print("This Python script is written for the Scribus scripting interface.")
+    print("It can only be run from within Scribus.")
+    sys.exit(1)
+```
+
+To finish, in order to challenge the runtime, a counter get the start and final time with `datetime.now()` function and return the final runtime with the `process_time()`  function. They are classical time functions, nothing special with Scribus and this script.
+
+
+### frametext main loop
+
+The main work is done by the frametext loop. 
 
 
 ```python
