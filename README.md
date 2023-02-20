@@ -1,3 +1,15 @@
+# Pour les utilisateurs francophones
+
+Ce répertoire contient des scripts pour la mise en forme typographique respectant les recommandations de l'Imprimerie nationale de France. Vous trouverez ces recommendations dans le livre *Lexique des règles typographiques en usage à l'Imprimerie nationale* (Édition Massin, ISBN 978-2-74336-0482-9 pour la dernière édition en cours, celle de 2002). 
+
+Le seul script utile est celui contenu dans le répertoire typo appelé typoImprimerieNationale.py.
+
+Vous devez le charger dans Scribus une fois votre document ouvert. Plus d'informations dans le répertoire ad hoc.
+
+Ce scipt a été testé avec Python 3.10.6 et Scribus 1.5.8.
+
+La documentation interne du script est en anglais.
+
 # For developers
  
  My scripts for French typo in Scribus.
@@ -53,14 +65,3 @@
  
  I add a test Scribus document for validating/testing this script. The debug mode in console shows the different parts/steps of the script. You can use the misc scripts for playing with a minimal set of rules, because the main script is a bit long. The document is test-typo.sla.
 
-# Pour les utilisateurs francophones
-
-Ce répertoire contient des scripts pour la mise en forme typographique respectant les recommandations de l'Imprimerie nationale de France. Vous trouverez ces recommendations dans le livre *Lexique des règles typographiques en usage à l'Imprimerie nationale* (Édition Massin, ISBN 978-2-74336-0482-9 pour la dernière édition en cours, celle de 2002). 
-
-Le seul script utile est celui contenu dans le répertoire typo appelé typoImprimerieNationale.py.
-
-Vous devez le charger dans Scribus une fois votre document ouvert. Plus d'informations dans le répertoire ad hoc.
-
-Ce scipt a été testé avec Python 3.10.6 et Scribus 1.5.8.
-
-La documentation interne du script est en anglais.
