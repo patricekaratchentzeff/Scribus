@@ -16,6 +16,5 @@ The general principle of this script is:
 Graph TD;
 	"One frametext only"-->"Process frametext";
 	"All the document"-->"Process frametext";
-	"Process frametext"-->"Extract text"
-
+	"Process frametext"-->"Extract text";
 ```
