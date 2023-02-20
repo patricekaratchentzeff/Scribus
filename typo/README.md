@@ -36,12 +36,12 @@ ATTENTION, pour les textes longs comme les romans, ce script peut tourner longte
 | Signes | Règles |
 | -----|-------------------|
  |Espaces consécutives |  Une seule espace               |
- |.,    |  Absence d'espace/espace typographique             | 
- |;!?   |  Espace typograhique fine insécable/espace typographique          | 
- |:     |  Espace typograhique insécable/espace typographique           | 
- |—     |  Espace typographique/espace typographique             | 
- |«     |  Espace typographique/Espace typograhique insécable          | 
- |»     |  Espace typograhique insécable/espace typographique           | 
- |([    |  espace typographique/absence d'espace              |
- |)]    |  Absence d'espace/espace typographique              |
+ |.,    |  Absence d'espace/espace justifiante             | 
+ |;!?   |  Espace fine insécable/espace justifiante          | 
+ |:     |  Espace  insécable/espace justifiante           | 
+ |—     |  Espace justifiante/espace justifiante             | 
+ |«     |  Espace justifiante/espace insécable          | 
+ |»     |  Espace insécable/espace justifiante           | 
+ |([    |  espace justifiante/absence d'espace              |
+ |)]    |  Absence d'espace/espace justifiante              |
 
