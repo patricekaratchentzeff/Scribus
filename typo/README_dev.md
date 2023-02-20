@@ -13,8 +13,8 @@ You must be fluent with the Scribus API and Python.
 The general principle of this script is:
 
 ```mermaid
-Graph TD;
-	"One frametext only"-->"Process frametext";
-	"All the document"-->"Process frametext";
-	"Process frametext"-->"Extract text";
+flowchart TD
+	A[One frametext only]-->(User choice)C[Process frametext]
+	B[All the document]-->(User choice)C[Process frametext]
+	C-->D[Extract text]
 ```
