@@ -28,7 +28,7 @@ Pour rappel, en typographie, le mot espace est féminin.
 
 Ce script peut s'appliquer sur un cadre de texte unique ou bien sur **tous** les cadres de texte, **à l'exception** des cadres de texte inclut dans les gabarits. Vous devez alors appliquer ce script au niveau des gabarit pour les valider.
 
-ATTENTION, pour les textes longs comme les romans, ce script peut tourner longtemps. Compter environ 6 à 7 min par 100 000 signes sur un microprocesseur de 2015. Il y a une barre de progression dans Scribus en bas à droite qui indique le pourcentage de travail effectué.
+ATTENTION, pour les textes longs comme les romans, ce script peut tourner longtemps. Comptez environ 6 à 7 min par paquet de 100 000 signes sur un microprocesseur de 2015. Il y a une barre de progression dans Scribus en bas à droite qui indique le pourcentage de travail effectué.
 
 
 # Règles typographiques en usage à l'Imprimerie nationale
