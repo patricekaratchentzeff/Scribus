@@ -1,6 +1,6 @@
 # For all users
 
-This script is aimed for French users, so the documentation and interface is for the moment in French. If you have such this need, you surely speak or understand French language.
+This script is aimed for French users, so the documentation and interface are for the moment in French. If you have such this need, you surely speak or understand French language.
 
 # Documentation
 
@@ -18,12 +18,13 @@ qui ont chacun leur règle propre et qui est pénible à respecter avec un clavi
 
 Notez toutefois que pour les caractères guillemet APL ', guillemet dactyloographique ", apostrophe culbuté ‘, apostrophe ’, virgule double „, guillemet simple gauche et guillemet simple droite, la règle est simple et n'est pas testé dans ce script. Elle est triviale à ajouter si la demande s'en faisait sentir.
 
-Notez enfin que la typographie des points de suspensions dépend du contexte et n'est donc pas automatisable : vous devez donc connaître la règle.
+La typographie des points de suspension dépend du contexte et n'est donc pas automatisable : vous devez donc connaître la règle.
 
-… n'a pas d'espace avant, et contient une espace typographique à la fin et au début d'une phrase
-…  est entouré de deux espaces typographiques entre parenthèses pour indiquer une coupe
+> … n'a pas d'espace avant, et contient une espace typographique à la fin et au début d'une phrase
 
-Noter qu'en typographie, l'espace est féminin.
+> …  est entouré de deux espaces typographiques entre parenthèses pour indiquer une coupe
+
+Pour rappel, en typographie, le mot espace est féminin.
 
 Ce script peut s'appliquer sur un cadre de texte unique ou bien sur **tous** les cadres de texte, **à l'exception** des cadres de texte inclut dans les gabarits. Vous devez alors appliquer ce script au niveau des gabarit pour les valider.
 
