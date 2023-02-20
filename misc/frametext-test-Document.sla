@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.8">
+    <DOCUMENT ANZPAGES="7" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="11.3385826771654" BleedLeft="11.3385826771654" BleedRight="11.3385826771654" BleedBottom="11.3385826771654" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="1" AUTOTEXT="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="1" DPSo="0" DPSFo="0" DPuse="1" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="scRGB (linear)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="3" ALAYER="0" LANGUAGE="fr" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.001" MAJGRID="100.001" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.001" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.001" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.001" dispY="10.001" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Bitstream Charter Bold" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="fr"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Fond de page" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="1" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0013" markOffset="0" BleedTop="11.3385826771654" BleedLeft="11.3385826771654" BleedRight="11.3385826771654" BleedBottom="11.3385826771654" printer="Hewlett-Packard-HP-Color-LaserJet-CM1312nfi-MFP" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="3" SolidP="sRGB display profile (ICC v2.2)" ImageP="scRGB (linear)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="6" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal gauche" MNAM="" Size="A4" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Normal droite" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="Normal droite (2)" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="Normal gauche (2)" MNAM="" Size="A4" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="20.001" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal droite (2)" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="901.890763779528" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal droite" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="901.890763779528" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normal gauche" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="1783.78052755906" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normal gauche" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="1783.78052755906" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normal droite" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="2665.67029133858" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="Normal droite (2)" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276590551181" PAGEYPOS="2665.67029133858" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="Normal droite" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="353.911417322835" YPOS="829.411417322835" OwnPage="2" ItemID="193244278" PTYPE="4" WIDTH="30.75" HEIGHT="21.1407637795277" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L30.75 0 L30.75 21.1408 L0 21.1408 L0 0 Z" copath="M0 0 L30.75 0 L30.75 21.1408 L0 21.1408 L0 0 Z" OnMasterPage="Normal droite (2)" gXpos="1084350.76181104" gYpos="3535443.5846456" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno"/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="306.930133858268" YPOS="37.4114173228346" OwnPage="2" ItemID="193255686" PTYPE="4" WIDTH="184.251968503937" HEIGHT="16.6053307086614" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L184.252 0 L184.252 16.6053 L0 16.6053 L0 0 Z" copath="M0 0 L184.252 0 L184.252 16.6053 L0 16.6053 L0 0 Z" OnMasterPage="Normal droite (2)" gXpos="1084303.78052758" gYpos="3534651.5846456" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Titre de l'œuvre"/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="300" YPOS="33" OwnPage="3" ItemID="193239398" PTYPE="4" WIDTH="198" HEIGHT="15.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L198 0 L198 15.75 L0 15.75 L0 0 Z" copath="M0 0 L198 0 L198 15.75 L0 15.75 L0 0 Z" OnMasterPage="Normal gauche (2)" gXpos="300" gYpos="33" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Chapitre"/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="376.5" YPOS="827.875015748032" OwnPage="3" ItemID="193272918" PTYPE="4" WIDTH="23.9734409448819" HEIGHT="24.8749842519685" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L23.9734 0 L23.9734 24.875 L0 24.875 L0 0 Z" copath="M0 0 L23.9734 0 L23.9734 24.875 L0 24.875 L0 0 Z" OnMasterPage="Normal gauche (2)" gXpos="376.5" gYpos="827.875015748032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno"/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <PAGEOBJECT XPOS="139.001" YPOS="942.890763779528" OwnPage="1" ItemID="193216726" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="139.001" gYpos="942.890763779528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="193201990" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Commençons par la considération des choses les plus communes, et que nous croyons comprendre le plus distinctement, à savoir les corps que nous touchons et que nous voyons. Je n’entends pas parler des corps en général, car ces notions générales sont d’ordinaire plus confuses, mais de quelqu’un en particulier. Prenons pour exemple ce morceau de cire qui vient d’être tiré de la ruche : il n’a pas encore perdu la douceur du miel qu’il contenait, il retient encore quelque chose de l’odeur des fleurs dont il a été recueilli; sa couleur, sa figure, sa grandeur, sont apparentes; il est dur, il est froid, on le touche, et si vous le frappez, il rendra quelque son."/>
+                <para/>
+                <ITEXT CH="Enfin toutes les choses qui peuvent distinctement faire connaître un corps, se rencontrent en celui-ci. Mais voici que, cependant que je parle, on l’approche du feu : ce qui y restait de saveur s’exhale, l’odeur s’évanouit, sa couleur se change, sa figure se perd, sa grandeur augmente, il devient liquide, il s’échauffe, à peine le peut-on toucher, et quoiqu’on le frappe, il ne rendra plus aucun son. La même cire demeure-t-elle après ce changement ? Il faut avouer qu’elle demeure; et personne ne le peut nier. Qu’est-ce donc que l’on connaissait en ce morceau de cire avec tant de distinction ?"/>
+                <para/>
+                <ITEXT CH="Qu’est-ce maintenant que cette extension ? N’est-elle pas aussi inconnue, puisque dans la cire qui se fond elle augmente, et se trouve encore plus grande quand elle est entièrement fondue, et beaucoup plus encore quand la chaleur augmente davantage ? Et je ne concevrais pas clairement et selon la vérité ce que c’est que la cire, si je ne pensais qu’elle est capable de recevoir plus de variétés selon l’extension, que je n’en ai jamais imaginé. Il faut donc que je tombe d’accord, que je ne saurais pas même concevoir par l’imagination ce que c’est que cette cire, et qu’il n’y a que mon entendement seul qui le conçoive; je dis ce morceau de cire en particulier, car pour la cire en général, il est encore plus évident."/>
+                <para/>
+                <ITEXT CH="Considérons-le attentivement, et éloignant toutes les choses qui n’appartiennent point à la cire, voyons ce qui reste. Certes il ne demeure rien que quelque chose d’étendu, de flexible et de muable. Or qu’est-ce que cela : flexible et muable ? N’est-ce pas que j’imagine que cette cire étant ronde est capable de devenir carrée, et de passer du carré en une figure triangulaire ? Non certes, ce n’est pas cela, puisque je la conçois capable de recevoir une infinité de semblables changements, et je ne saurais néanmoins parcourir cette infinité par mon imagination, et par conséquent cette conception que j’ai de la cire ne s’accomplit pas par la faculté d’imaginer."/>
+                <para/>
+                <ITEXT CH="Enfin toutes les choses qui peuvent distinctement faire connaître un corps, se rencontrent en celui-ci. Mais voici que, cependant que je parle, on l’approche du feu : ce qui y restait de saveur s’exhale, l’odeur s’évanouit, sa couleur se change, sa figure se perd, sa grandeur augmente, il devient liquide, il s’échauffe, à peine le peut-on toucher, et quoiqu’on le frappe, il ne rendra plus aucun son. La même cire demeure-t-elle après ce changement ? Il faut avouer qu’elle demeure; et personne ne le peut nier. Qu’est-ce donc que l’on connaissait en ce morceau de cire avec tant de distinction ?"/>
+                <para/>
+                <ITEXT CH="Or quelle est cette cire, qui ne peut être conçue que par l’entendement ou l’esprit ? Certes c’est la même que je vois, que je touche, que j’imagine, et la même que je connaissais dès le commencement. Mais ce qui est à remarquer, sa perception, ou bien l’action par laquelle on l’aperçoit, n’est point une vision, ni un attouchement, ni une imagination, et ne l’a jamais été, quoiqu’il le semblât ainsi auparavant, mais seulement une inspection de l’esprit, laquelle peut être imparfaite et confuse, comme elle était auparavant, ou bien claire et distincte, comme elle est à présent, selon que mon attention se porte plus ou moins aux choses qui sont en elle, et dont elle est composée."/>
+                <para/>
+                <ITEXT CH="Enfin toutes les choses qui peuvent distinctement faire connaître un corps, se rencontrent en celui-ci. Mais voici que, cependant que je parle, on l’approche du feu : ce qui y restait de saveur s’exhale, l’odeur s’évanouit, sa couleur se change, sa figure se perd, sa grandeur augmente, il devient liquide, il s’échauffe, à peine le peut-on toucher, et quoiqu’on le frappe, il ne rendra plus aucun son. La même cire demeure-t-elle après ce changement ? Il faut avouer qu’elle demeure; et personne ne le peut nier. Qu’est-ce donc que l’on connaissait en ce morceau de cire avec tant de distinction ?"/>
+                <para/>
+                <ITEXT CH="Qu’est-ce maintenant que cette extension ? N’est-elle pas aussi inconnue, puisque dans la cire qui se fond elle augmente, et se trouve encore plus grande quand elle est entièrement fondue, et beaucoup plus encore quand la chaleur augmente davantage ? Et je ne concevrais pas clairement et selon la vérité ce que c’est que la cire, si je ne pensais qu’elle est capable de recevoir plus de variétés selon l’extension, que je n’en ai jamais imaginé. Il faut donc que je tombe d’accord, que je ne saurais pas même concevoir par l’imagination ce que c’est que cette cire, et qu’il n’y a que mon entendement seul qui le conçoive; je dis ce morceau de cire en particulier, car pour la cire en général, il est encore plus évident."/>
+                <para/>
+                <ITEXT CH="Commençons par la considération des choses les plus communes, et que nous croyons comprendre le plus distinctement, à savoir les corps que nous touchons et que nous voyons. Je n’entends pas parler des corps en général, car ces notions générales sont d’ordinaire plus confuses, mais de quelqu’un en particulier. Prenons pour exemple ce morceau de cire qui vient d’être tiré de la ruche : il n’a pas encore perdu la douceur du miel qu’il contenait, il retient encore quelque chose de l’odeur des fleurs dont il a été recueilli; sa couleur, sa figure, sa grandeur, sont apparentes; il est dur, il est froid, on le touche, et si vous le frappez, il rendra quelque son."/>
+                <para/>
+                <ITEXT CH="Considérons-le attentivement, et éloignant toutes les choses qui n’appartiennent point à la cire, voyons ce qui reste. Certes il ne demeure rien que quelque chose d’étendu, de flexible et de muable. Or qu’est-ce que cela : flexible et muable ? N’est-ce pas que j’imagine que cette cire étant ronde est capable de devenir carrée, et de passer du carré en une figure triangulaire ? Non certes, ce n’est pas cela, puisque je la conçois capable de recevoir une infinité de semblables changements, et je ne saurais néanmoins parcourir cette infinité par mon imagination, et par conséquent cette conception que j’ai de la cire ne s’accomplit pas par la faculté d’imaginer."/>
+                <para/>
+                <ITEXT CH="Enfin toutes les choses qui peuvent distinctement faire connaître un corps, se rencontrent en celui-ci. Mais voici que, cependant que je parle, on l’approche du feu : ce qui y restait de saveur s’exhale, l’odeur s’évanouit, sa couleur se change, sa figure se perd, sa grandeur augmente, il devient liquide, il s’échauffe, à peine le peut-on toucher, et quoiqu’on le frappe, il ne rendra plus aucun son. La même cire demeure-t-elle après ce changement ? Il faut avouer qu’elle demeure; et personne ne le peut nier. Qu’est-ce donc que l’on connaissait en ce morceau de cire avec tant de distinction ?"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="735.276590551181" YPOS="941.890763779528" OwnPage="2" ItemID="193201990" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="735.276590551181" gYpos="941.890763779528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="193216726"/>
+        <PAGEOBJECT XPOS="140.001" YPOS="2705.67029133858" OwnPage="5" ItemID="193225910" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="140.001" gYpos="2705.67029133858" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="198706198" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Commençons par la considération des choses les plus communes, et que nous croyons comprendre le plus distinctement, à savoir les corps que nous touchons et que nous voyons. Je n’entends pas parler des corps en général, car ces notions générales sont d’ordinaire plus confuses, mais de quelqu’un en particulier. Prenons pour exemple ce morceau de cire qui vient d’être tiré de la ruche : il n’a pas encore perdu la douceur du miel qu’il contenait, il retient encore quelque chose de l’odeur des fleurs dont il a été recueilli; sa couleur, sa figure, sa grandeur, sont apparentes; il est dur, il est froid, on le touche, et si vous le frappez, il rendra quelque son."/>
+                <para/>
+                <ITEXT CH="Qu’est-ce maintenant que cette extension ? N’est-elle pas aussi inconnue, puisque dans la cire qui se fond elle augmente, et se trouve encore plus grande quand elle est entièrement fondue, et beaucoup plus encore quand la chaleur augmente davantage ? Et je ne concevrais pas clairement et selon la vérité ce que c’est que la cire, si je ne pensais qu’elle est capable de recevoir plus de variétés selon l’extension, que je n’en ai jamais imaginé. Il faut donc que je tombe d’accord, que je ne saurais pas même concevoir par l’imagination ce que c’est que cette cire, et qu’il n’y a que mon entendement seul qui le conçoive; je dis ce morceau de cire en particulier, car pour la cire en général, il est encore plus évident."/>
+                <para/>
+                <ITEXT CH="Commençons par la considération des choses les plus communes, et que nous croyons comprendre le plus distinctement, à savoir les corps que nous touchons et que nous voyons. Je n’entends pas parler des corps en général, car ces notions générales sont d’ordinaire plus confuses, mais de quelqu’un en particulier. Prenons pour exemple ce morceau de cire qui vient d’être tiré de la ruche : il n’a pas encore perdu la douceur du miel qu’il contenait, il retient encore quelque chose de l’odeur des fleurs dont il a été recueilli; sa couleur, sa figure, sa grandeur, sont apparentes; il est dur, il est froid, on le touche, et si vous le frappez, il rendra quelque son."/>
+                <para/>
+                <ITEXT CH="Considérons-le attentivement, et éloignant toutes les choses qui n’appartiennent point à la cire, voyons ce qui reste. Certes il ne demeure rien que quelque chose d’étendu, de flexible et de muable. Or qu’est-ce que cela : flexible et muable ? N’est-ce pas que j’imagine que cette cire étant ronde est capable de devenir carrée, et de passer du carré en une figure triangulaire ? Non certes, ce n’est pas cela, puisque je la conçois capable de recevoir une infinité de semblables changements, et je ne saurais néanmoins parcourir cette infinité par mon imagination, et par conséquent cette conception que j’ai de la cire ne s’accomplit pas par la faculté d’imaginer."/>
+                <para/>
+                <ITEXT CH="Commençons par la considération des choses les plus communes, et que nous croyons comprendre le plus distinctement, à savoir les corps que nous touchons et que nous voyons. Je n’entends pas parler des corps en général, car ces notions générales sont d’ordinaire plus confuses, mais de quelqu’un en particulier. Prenons pour exemple ce morceau de cire qui vient d’être tiré de la ruche : il n’a pas encore perdu la douceur du miel qu’il contenait, il retient encore quelque chose de l’odeur des fleurs dont il a été recueilli; sa couleur, sa figure, sa grandeur, sont apparentes; il est dur, il est froid, on le touche, et si vous le frappez, il rendra quelque son."/>
+                <para/>
+                <ITEXT CH="Enfin toutes les choses qui peuvent distinctement faire connaître un corps, se rencontrent en celui-ci. Mais voici que, cependant que je parle, on l’approche du feu : ce qui y restait de saveur s’exhale, l’odeur s’évanouit, sa couleur se change, sa figure se perd, sa grandeur augmente, il devient liquide, il s’échauffe, à peine le peut-on toucher, et quoiqu’on le frappe, il ne rendra plus aucun son. La même cire demeure-t-elle après ce changement ? Il faut avouer qu’elle demeure; et personne ne le peut nier. Qu’est-ce donc que l’on connaissait en ce morceau de cire avec tant de distinction ?"/>
+                <para/>
+                <ITEXT CH="Considérons-le attentivement, et éloignant toutes les choses qui n’appartiennent point à la cire, voyons ce qui reste. Certes il ne demeure rien que quelque chose d’étendu, de flexible et de muable. Or qu’est-ce que cela : flexible et muable ? N’est-ce pas que j’imagine que cette cire étant ronde est capable de devenir carrée, et de passer du carré en une figure triangulaire ? Non certes, ce n’est pas cela, puisque je la conçois capable de recevoir une infinité de semblables changements, et je ne saurais néanmoins parcourir cette infinité par mon imagination, et par conséquent cette conception que j’ai de la cire ne s’accomplit pas par la faculté d’imaginer."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="270.07974015748" YPOS="1154.16141732283" OwnPage="1" ItemID="193315910" PTYPE="4" WIDTH="249.581677165354" HEIGHT="288" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L249.582 0 L249.582 288 L0 288 L0 0 Z" copath="M0 0 L249.582 0 L249.582 288 L0 288 L0 0 Z" gXpos="270.07974015748" gYpos="1154.16141732283" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle OpticalMargins="14" SCALEH="94"/>
+                <ITEXT SCALEH="94" CH="Commençons par la considération des choses les plus communes, et que nous croyons comprendre le plus distinctement, à savoir les corps que nous touchons et que nous voyons. Je n’entends pas parler des corps en général, car ces notions générales sont d’ordinaire plus confuses, mais de quelqu’un en particulier. Prenons pour exemple ce morceau de cire qui vient d’être tiré de la ruche : il n’a pas encore perdu la douceur du miel qu’il contenait, il retient encore quelque chose de l’odeur des fleurs dont il a été recueilli; sa couleur, sa figure, sa grandeur, sont apparentes; il est dur, il est froid, on le touche, et si vous le frappez, il rendra quelque son."/>
+                <trail OpticalMargins="14"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="899.161417322834" YPOS="1031.16141732283" OwnPage="2" ItemID="193367782" PTYPE="4" WIDTH="198" HEIGHT="192" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L198 0 L198 192 L0 192 L0 0 Z" copath="M0 0 L198 0 L198 192 L0 192 L0 0 Z" gXpos="899.161417322834" gYpos="1031.16141732283" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="896.161417322834" YPOS="1322.16141732283" OwnPage="2" ItemID="193369046" PTYPE="2" WIDTH="178.5" HEIGHT="148.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="scRGB (linear)" IRENDER="3" path="M0 0 L178.5 0 L178.5 148.5 L0 148.5 L0 0 Z" copath="M0 0 L178.5 0 L178.5 148.5 L0 148.5 L0 0 Z" gXpos="896.161417322834" gYpos="1322.16141732283" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="270.07974015748" YPOS="1915.5" OwnPage="3" ItemID="193394758" PTYPE="4" WIDTH="205.42025984252" HEIGHT="166.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L205.42 0 L205.42 166.5 L0 166.5 L0 0 Z" copath="M0 0 L205.42 0 L205.42 166.5 L0 166.5 L0 0 Z" gXpos="270.07974015748" gYpos="1915.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Commençons par la considération des choses les plus communes, et que nous croyons comprendre le plus distinctement, à savoir les corps que nous touchons et que nous voyons"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="373.5" YPOS="2112" OwnPage="3" ItemID="198588438" PTYPE="4" WIDTH="201" HEIGHT="169.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L201 0 L201 169.5 L0 169.5 L0 0 Z" copath="M0 0 L201 0 L201 169.5 L0 169.5 L0 0 Z" gXpos="373.5" gYpos="2112" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="237" YPOS="2361" OwnPage="3" ItemID="198158150" PTYPE="4" WIDTH="184.5" HEIGHT="157.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L184.5 0 L184.5 157.5 L0 157.5 L0 0 Z" copath="M0 0 L184.5 0 L184.5 157.5 L0 157.5 L0 0 Z" gXpos="237" gYpos="2361" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="essai de quelques mots"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="225.224409448819" YPOS="2758.38976377953" OwnPage="5" ItemID="198152710" PTYPE="4" WIDTH="154.5" HEIGHT="75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L154.5 0 L154.5 75 L0 75 L0 0 Z" copath="M0 0 L154.5 0 L154.5 75 L0 75 L0 0 Z" gXpos="225.224409448819" gYpos="2758.38976377953" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="u"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="225.224409448819" YPOS="2758.38976377953" OwnPage="5" ItemID="198575382" PTYPE="4" WIDTH="154.5" HEIGHT="75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L154.5 0 L154.5 75 L0 75 L0 0 Z" copath="M0 0 L154.5 0 L154.5 75 L0 75 L0 0 Z" gXpos="225.224409448819" gYpos="2758.38976377953" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="u"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="225.224409448819" YPOS="2758.38976377953" OwnPage="5" ItemID="198599686" PTYPE="4" WIDTH="154.5" HEIGHT="75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L154.5 0 L154.5 75 L0 75 L0 0 Z" copath="M0 0 L154.5 0 L154.5 75 L0 75 L0 0 Z" gXpos="225.224409448819" gYpos="2758.38976377953" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="u"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="225.224409448819" YPOS="2758.38976377953" OwnPage="5" ItemID="198763750" PTYPE="4" WIDTH="154.5" HEIGHT="75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L154.5 0 L154.5 75 L0 75 L0 0 Z" copath="M0 0 L154.5 0 L154.5 75 L0 75 L0 0 Z" gXpos="225.224409448819" gYpos="2758.38976377953" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="u"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="231.224409448819" YPOS="2866.38976377953" OwnPage="5" ItemID="198756822" PTYPE="4" WIDTH="166.5" HEIGHT="80.9999999999998" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L166.5 0 L166.5 81 L0 81 L0 0 Z" copath="M0 0 L166.5 0 L166.5 81 L0 81 L0 0 Z" gXpos="231.224409448819" gYpos="2866.38976377953" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="uu"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="238.724409448819" YPOS="3022.38976377953" OwnPage="5" ItemID="198758614" PTYPE="4" WIDTH="280.5" HEIGHT="109.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.5 0 L280.5 109.5 L0 109.5 L0 0 Z" copath="M0 0 L280.5 0 L280.5 109.5 L0 109.5 L0 0 Z" gXpos="238.724409448819" gYpos="3022.38976377953" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="uu "/>
+                <nbspace/>
+                <ITEXT CH="u"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="735.276590551181" YPOS="2705.67029133858" OwnPage="6" ItemID="198706198" PTYPE="4" WIDTH="515.275590551181" HEIGHT="761.889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" copath="M0 0 L515.276 0 L515.276 761.89 L0 761.89 L0 0 Z" gXpos="735.276590551181" gYpos="2705.67029133858" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="193225910"/>
+        <PAGEOBJECT XPOS="815.724409448819" YPOS="2782.5" OwnPage="6" ItemID="198731478" PTYPE="4" WIDTH="379.5" HEIGHT="496.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L379.5 0 L379.5 496.5 L0 496.5 L0 0 Z" copath="M0 0 L379.5 0 L379.5 496.5 L0 496.5 L0 0 Z" gXpos="815.724409448819" gYpos="2782.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Commençons par la considération des choses les plus communes, et que nous croyons comprendre le plus distinctement, à savoir les corps que nous touchons et que nous voyons. Je n’entends pas parler des corps en général, car ces notions générales sont d’ordinaire plus confuses, mais de quelqu’un en particulier. Prenons pour exemple ce morceau de cire qui vient d’être tiré de la ruche : il n’a pas encore perdu la douceur du miel qu’il contenait, il retient encore quelque chose de l’odeur des fleurs dont il a été recueilli; sa couleur, sa figure, sa grandeur, sont apparentes; il est dur, il est froid, on le touche, et si vous le frappez, il rendra quelque son."/>
+                <para/>
+                <ITEXT CH="Commençons par la considération des choses les plus communes, et que nous croyons comprendre le plus distinctement, à savoir les corps que nous touchons et que nous voyons. Je n’entends pas parler des corps en général, car ces notions générales sont d’ordinaire plus confuses, mais de quelqu’un en particulier. Prenons pour exemple ce morceau de cire qui vient d’être tiré de la ruche : il n’a pas encore perdu la douceur du miel qu’il contenait, il retient encore quelque chose de l’odeur des fleurs dont il a été recueilli; sa couleur, sa figure, sa grandeur, sont apparentes; il est dur, il est froid, on le touche, et si vous le frappez, il rendra quelque son."/>
+                <para/>
+                <ITEXT CH="Or quelle est cette cire, qui ne peut être conçue que par l’entendement ou l’esprit ? Certes c’est la même que je vois, que je touche, que j’imagine, et la même que je connaissais dès le commencement. "/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
