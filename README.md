@@ -65,4 +65,4 @@ La documentation interne du script est en anglais.
  
  I add a test Scribus document for validating/testing this script. The debug mode in console shows the different parts/steps of the script. You can use the misc scripts for playing with a minimal set of rules, because the main script is a bit long. The document is test-typo.sla.
 
-See the README_dev.md file for more information on the code.
+See the README_dev.md file for more informations on the code in the directory typo.
