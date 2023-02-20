@@ -14,8 +14,8 @@ The general principle of this script is:
 
 ```mermaid
 Graph TD;
-	"One frametext only" --> "Process frametext";
-	"All the document" --> "Process frametext";
-	"Process frametext" --> "Extract text"
+	"One frametext only"-->"Process frametext";
+	"All the document"-->"Process frametext";
+	"Process frametext"-->"Extract text"
 
 ```
