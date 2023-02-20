@@ -480,7 +480,7 @@ Import re
 
 at the beginning of the code.
 
-Normaly, the real regex is `Text\d+` to be very clean, but for a reason that I ignore, it doesn't into the Scribus console!
+Normaly, the real regex is `Text\d+` to be very clean, but for a reason that I ignore, it doesn't work into the Scribus console!
 
 
 
