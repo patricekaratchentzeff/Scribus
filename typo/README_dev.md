@@ -247,7 +247,7 @@ This function deals all the possible cases, according to the lentgh of the strin
 
 ### Typo functions
 
-Typo functions are put into a tupple of couple functions, one for the test and the second for the modification:
+Typo functions are put into a tuple of couple of functions, one for the test and the second for the modification:
 
 ```python
 FR_typo_todo = ((FR_is_a_space, FR_remove_duplicated_spaces), \
@@ -276,7 +276,7 @@ then, it is a easy to run the typo in the previous frametext loop:
                         c += 1
 ```
 
-if you need to adapt the script, a nice approch is to create your own `PERSO_typo_todo` tuple.
+if you need to adapt the script, a nice approach is to create your own `PERSO_typo_todo` tuple.
 
 But there is conditions. The first element is a function which return character tests:
 
@@ -311,7 +311,7 @@ def FR_typo_for_lparent(cur, text, prevchar, nextchar):
         lparentindic += 1
 ```
 
-This function is based of the `match_space()` and `not_match_space()` function, which tests if the caracter is a space (or not):
+This function is based of the `match_space()` and `not_match_space()` functions, which test if the caracter is a space (or not):
 
 
 ```python
@@ -351,7 +351,7 @@ def insert_char(char, position, text):
     totalpagemove += 1
 ```
 
-Notice that one of the difficulties of this script is cursor problem. When you delete or add an element in you text, you change the cursor position. You have to count the number of change. Per example,
+Notice that one of the difficulties of this script is a **cursor** problem. When you delete or add an element in you text, you change the cursor position. You have to count the number of change. Per example,
 
 
 ```python
@@ -366,17 +366,121 @@ Normaly, here, to replace the next character, you should move at the position cu
 
 > I recommand to have a full test set for validating your tries!
 
+Notice the present of tags for the future stats.
+
+You have now the main knowledge to understand easely the code. Enjoy!
+
+
+### Goodies
+
+There is a few details per nicing the script.
+
+Scribus information box has no way to pass variables to print information. A simple way to add this functionality is to use the `.format()` of python:
+
+
+```python
+    message='''
+    Here is the value of {value}
+    '''.format(value=my_var_in_code)
+    scribus.messageBox('Statistiques du traitement',
+                       message,
+                       scribus.ICON_INFORMATION, scribus.BUTTON_OK)
+```
+
+I also use it a lot for debug message, for having a more lisible interface!
+
+```python
+def rebuild_text(text):
+    rebuilt= """
+*** Rebuilt text  ******
+{text}
+*** End rebuilt text  **
+    """.format(text=text)
+    print(rebuilt)
+```
+
+Notice in this case that the string into the chain has not to be indented, otherwise theses caracters will be taken uinto account!
+
+You have to setup the progress bar into Scribus, because the document can have a lot of characters. Per example, on a processor of 2015, this script costs about 6-7 min per 100.000 characters.
+
+There are 2 approaches: 
+
+* For a single frametext, the counter is based on the number of characters
+
+```python
+        scribus.progressTotal(textlen - 1) # max progression bar
+        scribus.messagebarText("Working on frametext...")
+```
+
+Then you have to add the update in the loop of the frametext:
+
+
+```python
+	scribus.messagebarText("Working on text...")
+	scribus.progressSet(c)   # progression bar step
+```
 
 
 
+* For all the document, the counter is based on the number of pages
+
 ```python
+        pagenum = scribus.pageCount()  # page number   
+        scribus.progressTotal(pagenum) # max progression bar
+        scribus.messagebarText("Working on document...")
 ```
+
+Then you have to insert the update into the loop of the page:
+
+
 ```python
+            scribus.progressSet(page)  # progression bar step
+            message_info = """Working on page {number}""".format(number=page)
+            info(message_info)
 ```
+
+Notice the `.format()` function to pass variable to the `messagebarText()`! 
+
+
+Here is a function per finding the first frametext into your document. It is not used into the current script, but I needed it for debuging.
+
 ```python
+def select_firstframetext():
+    global page, pagenum
+    selectframetext = False        # flag for existence
+    deselectAll()                  # unselect all
+    pagenum = scribus.pageCount()  # page number
+    # test all objets per page searching a frame
+    while (page <= pagenum):
+        scribus.gotoPage(page)
+        lobjects = scribus.getAllObjects()
+        for obj in lobjects:
+            textframe = re.match(re"Text", obj) # Text + a digit
+            if textframe :
+                first_text = obj
+                scribus.selectObject(obj)
+                selectframetext = True
+                break
+            else:
+                 page += 1
+        if selectframetext:
+            print("\n>>>> First selected frametext object is:", first_text)
+            break
+        page += 1
+    if ( selectframetext == False ):
+        # add a Scribus dialog to inform fail
+        print("DEBUG: No frametext object in document!")
 ```
+
+You must add
+
 ```python
+Import re
 ```
+
+at the beginning of the code.
+
+Normaly, the real regex is `Text\d+` to be very clean, but for a reason that I ignore, it doesn't into the Scribus console!
 
 
 
