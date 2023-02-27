@@ -3,7 +3,7 @@
 """
  (C)2023 Patrice Karatchentzeff
  
- This version 2023.02.15
+ This version 2023.02.27
  
  This program is free software; you can redistribute it and/or modify
  it under the terms of the  GPL, v3 (GNU General Public License as published by
@@ -462,10 +462,10 @@ def welcome_banner():
     info("Message d'information")
     result = scribus.messageBox("Information",
                                 message_init,
-                                icon=ICON_INFORMATION,
-                                button1=BUTTON_OK,
-                                button2=BUTTON_ABORT|BUTTON_DEFAULT)
-    if ( result == BUTTON_ABORT):
+                                icon=scribus.ICON_INFORMATION,
+                                button1=scribus.BUTTON_OK,
+                                button2=scribus.BUTTON_ABORT|scribus.BUTTON_DEFAULT)
+    if ( result == scribus.BUTTON_ABORT ):
         sys.exit(1)
 
 # Setup the script: for frametext or for all the page?
@@ -492,8 +492,8 @@ def setup_script():
             ou 2 (tout le document)</center>"""
             scribus.messageBox("Information",
                                message_warn,
-                               icon=ICON_WARNING,
-                               button1=BUTTON_OK)
+                               icon=scribus.ICON_WARNING,
+                               button1=scribus.BUTTON_OK)
     # check if a frametext has been selected
     if workflow == "frametext":
          # no selection
@@ -502,7 +502,8 @@ def setup_script():
             Sélectionnez un cadre de texte et recommencez. """
             scribus.messageBox('Scribus - Erreur',
                                message_warn,
-                               scribus.ICON_WARNING, scribus.BUTTON_OK)
+                               icon=scribus.ICON_WARNING,
+                               button1=scribus.BUTTON_OK)
             sys.exit(2)
         # multi-selection
         elif scribus.selectionCount() > 1:
@@ -512,7 +513,8 @@ def setup_script():
             puis recommencez.</center> """
             scribus.messageBox('Scribus - Erreur',
                                message_warn,
-                               scribus.ICON_WARNING, scribus.BUTTON_OK)
+                               icon=scribus.ICON_WARNING,
+                               button1=scribus.BUTTON_OK)
             sys.exit(2)
         # check if selection is a real frametext
         else:
@@ -523,7 +525,8 @@ def setup_script():
                     Veuillez sélectionner un cadre de texte, puis recommencez. """
                     scribus.messageBox('Scribus - Erreur',
                                        message_warn,
-                                       scribus.ICON_WARNING, scribus.BUTTON_OK)
+                                       icon=scribus.ICON_WARNING,
+                                       button1=scribus.BUTTON_OK)
                     sys.exit(2)
 
 # Final stats
@@ -582,7 +585,8 @@ def final_stats():
                rtime=runtime, color1="#FFFFF0", color2="#FFFBCD")
     scribus.messageBox('Statistiques du traitement',
                        message_stats,
-                       scribus.ICON_INFORMATION, scribus.BUTTON_OK)
+                       icon=scribus.ICON_INFORMATION,
+                       button1=scribus.BUTTON_OK)
 
 # Computes the process time and returns human lisible time
 #    
